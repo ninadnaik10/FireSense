@@ -1,2 +1,10 @@
 runs/
 *.jpg
+
+key.json
+imgbb.py
+.env
+main*.py
+!main.py
+.ipynb
+best.pt

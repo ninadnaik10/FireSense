@@ -1,0 +1,7 @@
+ultralytics
+cvzone
+cv2
+pyfcm
+firebase_admin
+imgbbpy
+dotenv
