@@ -7,5 +7,5 @@ droidcam.py
 .env
 main*.py
 !main.py
-.ipynb
+*.ipynb
 best.pt
