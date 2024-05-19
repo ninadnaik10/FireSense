@@ -9,3 +9,4 @@ main*.py
 !main.py
 *.ipynb
 best.pt
+**/firebase_options.dart
