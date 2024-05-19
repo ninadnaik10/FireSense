@@ -3,6 +3,7 @@ runs/
 
 key.json
 imgbb.py
+droidcam.py
 .env
 main*.py
 !main.py
