@@ -5,3 +5,4 @@ pyfcm
 firebase_admin
 imgbbpy
 dotenv
+Flask
