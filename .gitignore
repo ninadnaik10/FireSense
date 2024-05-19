@@ -10,3 +10,4 @@ main*.py
 *.ipynb
 best.pt
 **/firebase_options.dart
+**/google-services.json
